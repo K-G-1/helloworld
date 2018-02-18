@@ -15,5 +15,9 @@
 * Git协议: `git://github.com/gotgithub/helloworld.git` 。
 * SSH协议: `ssh://git@github.com/gotgithub/helloworld.git` 。
 
-## 克隆版本库
+## 语言
+
++ c++
++ python3
+
 
